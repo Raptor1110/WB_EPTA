@@ -1,5 +1,5 @@
 # WB_EPTA
-Weight and Ballance analysis software fot OpenRocket data (may also work with other rocket simulators)
+#Weight and Ballance analysis software fot OpenRocket data (may also work with other rocket simulators)
 import csv
 import matplotlib.pyplot as plt
 import numpy as np
